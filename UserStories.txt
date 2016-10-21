@@ -1,0 +1,10 @@
+Rachel Platz
+Patterns 2 Homework
+User Stories
+1. The user wants a train object and will move between two points on a rail.
+2. The train object can go forwards and backwards along the rail. 
+3. The user wants four additional objects:
+	1) One object will make the train move left when clicked.
+	2) One object will make the train move right when clicked.
+	3) One object that will stop the train.
+	4) One object that will randomize the other 3 objects. 
